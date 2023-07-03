@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Cecile Helary Hamerel
 - 💻 Head of Marketing & Events at [Les-Tilleuls.coop](https://github.com/coopTilleuls) 
-- 🕷 [API Platform Conference](https://api-platform.com/con/2023/) organizer
-- 🐘 Former AFUP president (2020/2022) 
+- 🕷 [API Platform Conference](https://api-platform.com/con/2023/) organizer & speaker manager 
+- 🐘 Former [AFUP](https://afup.org/home) president (2020/2022) 
 - 📫 Your worst nightmare on music blind tests
 
 <!---
